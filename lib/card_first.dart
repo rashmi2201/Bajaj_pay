@@ -9,7 +9,7 @@ class Card_first extends StatelessWidget {
       child: Row(children: [
         Card(
           child: Container(
-            decoration: BoxDecoration(
+            decoration: BoxDecoration(  
                 gradient: const LinearGradient(
                   colors: [
                     Color.fromARGB(255, 65, 164, 230),
